@@ -4,7 +4,7 @@
 {% include 01-name.md %}
 
 <br>
-_{% includes/02-image.md %}
+ {% includes/02-image.md %}
 (![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)) 
 
 
