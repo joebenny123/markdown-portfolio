@@ -5,7 +5,7 @@
 
 <br>
  {% includes/02-image.md %}
-(![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)) 
+(![alt- text](https://octodex.github.com/images/yaktocat.png)) 
 
 
 <br>
